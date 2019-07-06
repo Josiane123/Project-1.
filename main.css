@@ -1,0 +1,71 @@
+.d{ position: absolute; top: 3opx; right: 70px;
+border-radius: 50%;
+border: 0px;
+background: red;
+color: white;
+height: 50px;
+width: 50px;
+margin-top: -80px;
+font-size : 20px; 
+}
+
+.google{ 
+    display: block;
+    position: left: 70px;
+    border: 0px;
+    height: 40px;
+    width: 90px;
+    padding: 50px;
+}
+
+.text{
+    
+    display: flex;
+    text-align: center;
+    margin: auto;
+    margin-top: 150px;
+    width: 45%;
+    height:20px;
+    padding: 20px;
+    border-radius: 35px;
+    background-color: lightgray;
+    border: 0px;
+
+}
+.row{
+ 
+    display: block;
+    margin: auto;
+    padding-top: 20px;
+    text-align: center;
+    
+
+    
+
+}
+.icon{
+    
+    padding: 10px;
+    width: 60px;
+    height:60px;
+    
+
+}
+.drive{
+
+padding: 10px;
+width: 60px;
+height:60px;
+
+}
+.plus{
+    
+    padding: 10px;
+    width: 60px;
+    height:60px;
+
+}
+.bottom{ 
+    position: absolute;     
+
+}
